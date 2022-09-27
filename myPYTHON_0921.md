@@ -1,5 +1,9 @@
 CHINESE NAME:
-ENGLISH NAME:
-NICKNAME:
+
+ENGLISH NAME: Jasphier P. Cabel
+
+NICKNAME: jasper
+
 EMAIL: jaspercabel@gmail.com
+
 GITHUB: https://github.com/JasphierCabel
